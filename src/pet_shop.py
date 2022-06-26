@@ -88,11 +88,6 @@ def sell_pet_to_customer(dict, pet, customer):
 
 
 
-    
-
-
-
-
 
 
 
